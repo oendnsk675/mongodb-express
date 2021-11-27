@@ -34,6 +34,8 @@ app.listen(8000, () => {
     console.log('Server is running on http://localhost:8000');
 })
 
+
+// create role if still empty on database
 function initial() {
     Role.estimatedDocumentCount((err, count) => {
         if (!err && count === 0) {
