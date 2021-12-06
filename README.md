@@ -40,14 +40,14 @@ npm run dev
 Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
-| Plugin | README |
-| ------ | ------ |
-| Login | [post] [http://localhost:8000/api/login][PlDb] |
-| Register | [post] [http://localhost:8000/api/register][PlGh] |
-| Get Post | [get] [http://localhost:8000/api/posts/][PlGd] |
-| Get Detail Post | [get] [http://localhost:8000/api/posts/:slug][PlOd] |
-| Create Post | [post] [http://localhost:8000/api/posts/][PlMe] |
-| Update Post | [put] [http://localhost:8000/api/posts/:slug][PlGa] |
+| Plugin | POST | README |
+| ------ | ---- |------ |
+| Login | [post] | [http://localhost:8000/api/login][PlDb] |
+| Register | [post] | [http://localhost:8000/api/register][PlGh] |
+| Get Post | [get] | [http://localhost:8000/api/posts/][PlGd] |
+| Get Detail | Post |  [get] [http://localhost:8000/api/posts/:slug][PlOd] |
+| Create Post | [post] | [http://localhost:8000/api/posts/][PlMe] |
+| Update Post | [put] | [http://localhost:8000/api/posts/:slug][PlGa] |
 
 ## Struktur Folder
 
