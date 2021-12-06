@@ -40,7 +40,7 @@ npm run dev
 Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
-| Plugin | POST | README |
+| Plugin | METHOD | README |
 | ------ | ---- |------ |
 | Login | [post] | [http://localhost:8000/api/login][PlDb] |
 | Register | [post] | [http://localhost:8000/api/register][PlGh] |
