@@ -42,12 +42,12 @@ Instructions on how to use them in your own application are linked below.
 
 | Plugin | METHOD | README |
 | ------ | ---- |------ |
-| Login | [post] | [http://localhost:8000/api/login][PlDb] |
-| Register | [post] | [http://localhost:8000/api/register][PlGh] |
-| Get Post | [get] | [http://localhost:8000/api/posts/][PlGd] |
-| Get Detail | Post |  [get] [http://localhost:8000/api/posts/:slug][PlOd] |
-| Create Post | [post] | [http://localhost:8000/api/posts/][PlMe] |
-| Update Post | [put] | [http://localhost:8000/api/posts/:slug][PlGa] |
+| Login | [post] | http://localhost:8000/api/login |
+| Register | [post] | http://localhost:8000/api/register |
+| Get Post | [get] | http://localhost:8000/api/posts/ |
+| Get Detail Post | [get] | http://localhost:8000/api/posts/:slug |
+| Create Post | [post] | http://localhost:8000/api/posts/ |
+| Update Post | [put] | http://localhost:8000/api/posts/:slug |
 
 ## Struktur Folder
 
